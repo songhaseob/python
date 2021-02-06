@@ -1,0 +1,47 @@
+i am info
+i am warn
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am info
+i am warning
+i am error
+i am fatal
+i am debug
+i am info
+i am warning
+i am error
+i am fatal
+i am debug
+i am info
+i am warning
+i am error
+i am fatal
+i am debug
+i am info
+i am warning
+i am error
+i am fatal
+i am debug
+i am info
+i am warning
+i am error
+i am fatal
+i am debug
+i am info
+i am warning
+i am error
+i am fatal
+<function hello at 0x000002A191D8D940>
+<function db at 0x000002A191D8DC10>
+<function ajax_ins at 0x000002A191D95040>
+<function db at 0x000002A191D8DC10>
+<function ajax_del at 0x000002A191D8DE50>
+<function db at 0x000002A191D8DC10>
+<function ajax_upd at 0x000002A191D8DCA0>
+<function ajax_upd at 0x000002A191D8DCA0>
+<function db at 0x000002A191D8DC10>
